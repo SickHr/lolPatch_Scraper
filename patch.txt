@@ -1,0 +1,336 @@
+Cosmic Matriarch Bel'Veth, Cosmic Paladin Nautilus, Cosmic Paladin Sion, Cosmic Paladins Nunu & Willump, and Dark Cosmic Erasure Jhin will be available August 30, 2023 at 20:00 UTC.
+- - - - - - - - -
+Aatrox
+Passive damage type adjusted to magic damage. W damage type adjusted to magic damage.
+Aatrox’s most common build right now is Duskblade into Serylda's, which leaves him incredibly squishy when it comes to team fights, making Aatrox very feast or famine. Switching his passive and W to magic damage means that lethality and armor penetration won’t scale his damage or self-healing as much since that healing is post-mitigation. Lowering the opportunity cost of tankier options like Goredrinker, Stridebreaker, or Black Cleaver should allow him to play a bit more like a juggernaut and less like a diver-assassin.
+Passive - Deathbringer Stance
+Damage Type: Physical ⇒ Magic
+W - Infernal Chains
+Damage Type: Physical ⇒ Magic
+- - - - - - - - -
+Akshan
+Health growth increased, armor growth increased, attack damage growth decreased.
+Overall champion durability, especially for squishies, has fallen somewhat over the past year. While still higher than 12.9 (right before the Durability Update last year), we've lost about half of the gains from that patch on marksmen specifically. Not all champions have been affected, but some felt this durability loss much more than others. Akshan, Quinn, and Samira have changes this patch to help remedy this, while Yasuo and Yone had them earlier this year.
+
+Akshan's builds have moved away from the slightly tankier on-hit builds that included Wit's End and Shieldbow. He's found new successful builds to use, which is fine, but his combats now resolve very quickly. We're looking to slow down these fights just a little bit, so both him and his opponents have some breathing room.
+
+The changes here are pretty small. Ultimately, less base AD gives him fewer crit multipliers, which raises the relative value of on-hit damage like Blade of the Ruined King and Wit's End.
+Base Stats
+Health Growth: 104 ⇒ 107
+Armor Growth: 4.2 ⇒ 4.7
+Attack Damage Growth: 3.5 ⇒ 3
+- - - - - - - - -
+Blitzcrank
+Base health and magic resistance increased, base attack speed and attack speed ratio decreased. Passive shield value adjusted. W mana cost decreased, bonus attack speed decreased. E AD ratio increased, mana cost decreased, bonus damage to non-champions removed. R passive damage increased.
+Historically, Blitzcrank has always been a relatively straightforward champion which is something both we and players appreciated about them, and we want to focus on that. To that end, we’ve decided to roll back the changes we made last year to help Blitz play in the jungle. Throughout the past year it’s proven difficult to have Blitz succeed in both roles, and even when they were viable in the jungle it turned out players weren’t that interested in playing him there. Going forward we’ll be focusing on balancing Blitz in their most popular position—support.
+Base Stats
+Base Health: 633 ⇒ 650
+Magic Resistance: 28 ⇒ 32
+Base Attack Speed: 0.65 ⇒ 0.625
+Attack Speed Ratio: 0.7 ⇒ 0.625
+Passive - Mana Barrier
+Shield Strength: 15-45% (based on level) of Maximum Mana ⇒ 30% of Maximum Mana
+W - Overdrive
+Mana Cost: 85 ⇒ 75
+Bonus Attack Speed: 30/43/56/69/82% ⇒ 30/40/50/60/70%
+E - Power Fist
+Bonus Physical Damage: 75% AD (+25% AP) ⇒ 100% AD (+25% AP)
+Mana Cost: 40 ⇒ 25
+removedBonus Damage to Non-Champions: E no longer deals a bonus 150% AD (+125% AP) to non-champions
+R - Static Field
+Passive Damage: 50/100/150 (+50% AP) ⇒ 50/100/150 (+50% AP) (+2% Maximum Mana)
+- - - - - - - - -
+Elise
+Passive bonus magic damage and healing on basic attacks increased. E stun duration increased.
+Elise may be the Spider Queen, but she definitely isn’t the queen of the jungle at the moment. Her ability to clear is currently weaker than many other junglers, often taking longer and finishing with less health which in turn make her first gank (where she should excel) weaker than it should be. We're also looking to adjust her in later stages of the game so that she still has strong pick potential when her other strengths have fallen off.
+Passive - Spider Queen
+Bonus Magic Damage on Basic Attacks: 10/20/30/40 (+20% AP) ⇒ 12/22/32/42 (+20% AP)
+On-Hit Healing on Basic Attacks: 4/6/8/10 (+8% AP) ⇒ 6/8/10/12 (+8% AP)
+E - Cocoon
+Stun Duration: 1.6/1.7/1.8/1.9/2 seconds ⇒ 1.6/1.8/2/2.2/2.4 seconds
+- - - - - - - - -
+Gnar
+Mega Gnar Q base damage increased. Mega Gnar W base damage increased.
+Gnar has been struggling to find success in both solo queue and Pro play. In order to strengthen his laning phase, we'll be increasing the base damage on his Mega Q and W so that he can all-in his opponents and translate those trades into leads more often.
+Q - Boulder Toss (Mega Gnar)
+Physical Damage: 25/70/115/160/205 (+140% AD) ⇒ 45/90/135/180/225 (+140% AD)
+W - Wallop (Mega Gnar)
+Physical Damage: 25/55/85/115/145 (+100% AD) ⇒45/75/105/135/165 (+100% AD)
+- - - - - - - - -
+Hecarim
+Base mana, base mana regeneration, and mana regeneration growth increased, mana growth decreased. Q mana cost decreased. W mana cost decreased, omnivamp decreased.
+Hecarim's current builds are very squishy. He's starting to adopt Spear of Shojin, which is great, but is still building Duskblade and Manamune. First up, we’re trying to lower his reliance on Manamune. If he continues to build it, it’ll provide less damage. If he doesn’t build it, his mana issues won’t be nearly as severe. By not having to build Manamune, he should be open to buy other fighter items instead.
+
+Additionally, Hecarim’s current best item is Spear of Shojin, which is getting buffed this patch. We expect him to gain quite a bit of power just from systemic changes, so we’re tagging him with a pre-emptive nerf to his self-healing. He’ll more than make up for it with the bonus health he’ll receive from other items, but we’ll make sure he lands in a good spot and follow up as necessary.
+Base Stats
+Base Mana: 277 ⇒ 280
+Mana Growth: 60 ⇒ 40
+Base Mana Regeneration: 6.5 ⇒ 7
+Mana Regeneration Growth: 0.6 ⇒ 0.8
+Q - Rampage
+Mana Cost: 30 at all ranks ⇒ 28/26/24/22/20
+W - Spirit of Dread
+Mana Cost: 50/60/70/80/90 ⇒ 50/55/60/65/70
+Omnivamp: 25% (+2% of 100 bonus AD) of damage dealt ⇒ 20% of damage dealt (Note: this is still post-mitigation damage dealt)
+- - - - - - - - -
+Kayn
+W AD ratio decreased.
+Kayn has been an absolute terror for a while now, so we’re taking a pretty big swing at lowering his power level. Right now, Shadow Assassin outperforms Darkin Kayn, especially at higher skill brackets, so we’re targeting nerfs that affect Shadow Assassin more. Ultimately, his W doesn’t have a ton of counter-play for his opponents, so reducing its power will allow us to address both lower his frustrating poke and hit our goals regarding his two forms.
+W - Blade's Reach
+Physical Damage: 90/135/180/225/270 (+130% bonus AD) ⇒ 85/130/175/220/265 (+110% bonus AD)
+QoL Change
+New Me, New Health and Mana Bar: Kayn now restores himself to maximum health and mana upon transforming into Shadow Assassin or Darkin Slayer. (Note: This feature is disabled on ARAM.)
+- - - - - - - - -
+Kha'Zix
+Q AD ratio decreased.
+Kha’Zix, like Kayn, has been an overperforming jungler for the last couple months. He can use a small nerf, which we’re delivering here to his Q. We’re keeping Kha’Zix’s poke from Void Spikes at full power, considering players can hide behind minions or body-block for their teammates. Instead, we’re going after a bit of his all-in power. He should still have plenty of damage, he just won’t spike quite as hard when ahead in gold.
+Q - Taste Their Fear
+Physical Damage: 70/95/120/145/170 (+115% bonus AD) ⇒ 70/95/120/145/170 (+110% bonus AD)
+- - - - - - - - -
+Kindred
+E slow and percent missing health damage decreased.
+Despite our best efforts, Kindred have maintained a relative stranglehold on high-level solo queue. This time we’re aiming at their gank power, which should be a win for their opponents all around. Additionally, with less “free” base damage in their kit we expect Kindred to build a bit more damage-focused (instead of largely tanky options like Sterak’s Gage).
+E - Mounting Dread
+Physical Damage: 80/100/120/140/160 (+80% bonus AD) (+8% (+0.5% per Mark Mark) target’s missing health) ⇒ 80/100/120/140/160 (+80% bonus AD) (+5% (+0.5% per Mark Mark) target’s missing health)
+Slow: 50% (+5% per 100 AP) for 1 second ⇒ 30% (+5% per 100 AP) for 1 second
+- - - - - - - - -
+Lux
+Base mana regeneration decreased. Passive damage increased. Q cooldown now decreased with rank. E base damage decreased.
+In this patch we’re aiming to bolster up Lux as a mid lane damage carry while being cautious around over-buffing Lux support. We have some mana regeneration nerfs to keep support Lux in check, but in exchange we’re giving her a scaling cooldown on her Q and more damage in her passive which should give skilled Lux players more opportunities to make bigger (light) waves on the Rift.
+Base Stats
+Base Mana Regeneration: 8 ⇒ 7
+Passive - Illumination
+Magic Damage: 20-190 (based on level) (+20% AP) ⇒ 30-200 (based on level) (+25% AP)
+Q - Light Binding
+Cooldown: 11 seconds at all ranks ⇒ 11/10.5/10/9.5/9 seconds
+E - Lucent Singularity
+Magic Damage: 70/120/170/220/270 (+80% AP) ⇒ 65/115/165/215/265 (+80% AP)
+- - - - - - - - -
+Naafiri
+Base health decreased. Passive cooldown increased, packmates now take bonus damage from melee attacks. Q damage and heal decreased. E damage decreased.
+Even with the nerfs last patch, Naafiri is still holding strong. In this patch we’re looking to reduce the uptime of her packmates. This should make killing them in lane a more viable strategy that opens up more breathing room, and force Naafiri to preserve them a bit more. We’ve also made it easier for melee champions to clear the pack, which helps offset the fact that it’s much easier to land both Qs on a melee target.
+
+Similarly, we're reducing the poke and sustain of Q2, while keeping its execute power intact. It's still worth hitting both Qs, but the value on high-health targets won't be quite as prominent.
+Base Stats
+Base Health: 650 ⇒ 635
+Passive - We are more
+Cooldown: 25-10 (based on level) ⇒ 30-15 (based on level)
+newDown Doggo: Naafiri’s Packmates will now take 100% bonus damage from melee attacks
+Q - Darkin Daggers
+Recast Minimum Damage: 35/50/65/80/95 (+70% bonus AD) ⇒ 30/45/60/75/90 (+40% bonus AD)
+Recast Maximum Damage: 70/100/130/160/190 (+70% bonus AD) ⇒ 60/90/100/130/180 (+70% bonus AD)
+Recast Heal Amount: 45/65/85/105/125 (+40% bonus AD) ⇒ 45/60/75/90/105 (+40% bonus AD)
+E - Eviscerate
+Dash Physical Damage: 35/50/65/80/95 (+60% bonus AD) ⇒ 35/50/65/80/95 (+50% bonus AD)
+Flurry Physical Damage: 65/100/135/170/205 (+90% bonus AD) ⇒ 65/100/135/170/205 (+80% bonus AD)
+- - - - - - - - -
+Orianna
+Health growth increased. W base damage increased.
+Orianna has been a few steps behind on her tango routine recently, especially during her mid-game power spike. We want to preserve her current early game weakness while letting her feel a bit more powerful when she's at her strongest and consistently hitting enemies with her W.
+Base Stats
+Health Growth: 105 ⇒ 110
+W - Command: Dissonance
+Magic Damage: 60/105/150/195/240 (+70% AP) ⇒ 70/120/170/220/270 (+70% AP)
+- - - - - - - - -
+Quinn
+Health growth increased. Q base damage decreased. E base damage decreased.
+Earlier (check the Akshan context above) we mentioned that several champions lost a meaningful amount of durability over the last year. Quinn is one such outlier who has moved from skirmisher-style builds (Wit's End, Blade of the Ruined King, the old Bloodthirster) into full-offensive builds, frequently opting to build lethality.
+
+We'd like to slow down Quinn's combat pattern and get her back to relying on attack speed and less on a kill-or-be-killed burst, while also giving her enough baseline durability to not get one-shot when someone closes the gap onto her.
+Base Stats
+Health Growth: 99 ⇒ 107
+Q - Blinding Assault
+Physical Damage: 20/45/70/95/120 (+80/90/100/110/120% AD) (+50% AP) ⇒ 20/40/60/80/100 (+80/90/100/110/120% AD) (+50% AP)
+E - Vault
+Physical Damage: 40/70/100/130/160 (+20% bonus AD) ⇒ 40/65/90/115/140 (+20% bonus AD)
+- - - - - - - - -
+Samira
+Base health increased.
+Samira is the final champion in our list of marksmen who lost a lot of durability recently. Without the early Shieldbow, she's been feeling really squishy. She should certainly have some risk for her high-kill, reset-oriented gameplay, and if she wants to stall out her damage to buy Shieldbow second, she's more than welcome to do so. But for now, we're giving her some baseline durability to let her be a bit safer when she plays aggressively in the early game.
+Base Stats
+Base Health: 600 ⇒ 630
+- - - - - - - - -
+Tryndamere
+Attack range increased. Attack damage decreased
+Tryndamere has been having a hard time striking fear into the hearts of his opponents, so we’re looking to give him power in a way that brings him more in line with more modern melee champions. Quite a few other melee skirmishers also currently have 175 range (Trundle, Master Yi, and Darius to name a few), so we expect this to feel more intuitive for players. That said, we’re aware that an additional 50 range is a lot, so we’re preemptively nerfing Trynadmere’s base attack damage which should also reduce his ability to gain leads via level 1 and 2 all-ins. We’ll be keeping a close eye on Tryndamere following this update though.
+Base Stats
+Attack Range: 125 ⇒ 175
+Attack Damage: 72 ⇒ 68
+- - - - - - - - -
+Twisted Fate
+Q damage increased.
+Twisted Fate hasn’t been doing too hot in solo queue and hasn’t really had much presence in Pro play, so we’re looking to tilt the odds in his favor a bit more. With this buff we want to increase the amount of individual power in TF’s kit by putting more damage into his Q which he heavily relies on, especially during later stages of the game where he can't walk up to his opponents too closely. Gone are the days of being memed as a yellow card. Poke TF is here!
+Q - Wild Cards
+Magic Damage: 60/100/140/180/220 (+80% AP) ⇒ 60/100/140/180/220 (+90% AP)
+- - - - - - - - -
+Vex
+Q base damage increased. W cooldown decreased.
+Vex has been feeling more downcast than usual, so we’re looking to add a bit of pep to her step (but not too much). This patch we’re trying to buff up her early spells without amplifying her already sharp matchups, instead of touching anything that requires the enemies to be dashing, which she already does well at fighting.
+Q - Mistral Bolt
+Magic Damage: 60/105/150/195/240 (+70% AP) ⇒ 70/115/160/205/250 (+70% AP)
+W - Personal Space
+Cooldown: 20/18/16/14/12 seconds ⇒ 16/15/14/13/12 seconds
+- - - - - - - - -
+Vi
+Passive shield health scaling increased. W cooldown reduction increased. E cooldown decreased. R damage decreased.
+Vi has certainly been on a bit of a balance rollercoaster this year. Right now she’s in a very weak spot for solo queue play and the 13.13 nerfs removed most of her Pro presence. What we’re trying to do with Vi is steer her into mid-sized fighter builds and away from building either full tank or full assassin. To that end, we’re increasing the value of her using basic attacks and W as a primary tanking tool.
+
+Her E change should make it less important to max the ability, meaning players can move into maxing W second instead and the R nerf is aimed to have a bit more impact in Pro play than solo queue.
+Passive - Blast Shield
+Shield Strength: 10% of Vi’s maximum health ⇒ 12% of Vi’s maximum health
+W - Denting Blows
+Passive Cooldown Reduction: 3 seconds ⇒ 4 seconds
+E - Relentless Force
+Cooldown: 14/12.5/11/9.5/8 seconds ⇒ 12/11/10/9/8 seconds
+R - Cease and Desist
+Physical Damage: 150/325/500 (+110% bonus AD) ⇒ 150/275/400 (+90% bonus AD)
+- - - - - - - - -
+Xerath
+Base mana regeneration decreased. Passive cooldown refunded on unit kill increased. W mana cost increased.
+Xerath support is currently performing very well in solo queue, poking the competition down until they have to reluctantly recall. While the 13.14 buffs had a larger impact for Xerath mid, they still increased his win rate as a support (where he was already quite powerful). Since his mid win strength is currently in a reasonable spot, we’ll be nerfing his access to mana in a way that targets him as a support and doesn’t affect mid quite as much.
+Base Stats
+Base Mana Regeneration: 8 ⇒ 6.85
+Passive - Mana Surge
+Cooldown Refunded on Unit Kill: 2 seconds ⇒ 2.5 seconds
+W - Eye of Destruction
+Mana Cost: 70/80/90/100/110 ⇒ 80/90/100/110/120
+- - - - - - - - -
+Xin Zhao
+Passive heal adjusted.
+Xin Zhao's builds are usually in the light fighter space, with common items including Eclipse and Blade of the Ruined King. There’s nothing inherently wrong with that, but we want to make sure he feels supported by heavier items like Trinity Force and Black Cleaver. By adding an HP ratio, he's more likely to skip the really lethal items like Collector and Essence Reaver, instead opting for tankier options.
+The math on Determination works out to being a strict buff with no item purchases at all, a nerf if every item gives AD and no health, and a buff with even a single hybrid durability item like Trinity Force, Goredrinker, or Black Cleaver.
+Passive - Determination
+Heal on Third Stack: 6-74 (based on level) (+10% AD) (+65% AP) ⇒ 3/3.5/4% (levels 1/6/11) (+65% AP) of maximum health
+- - - - - - - - -
+Zoe
+Base health regeneration increased. Magic resistance reduction increased.
+In this patch we want to give Zoe a few tools to make her easier to play. We’re removing the scaling need on the MR shred, which effectively doesn't do much before resists are built anyways. We’re also upping her base health regeneration since Zoe is a very squishy champion that has to opt into close ranges early on to trade reasonably. This should allow her to be more consistent in lane.
+Base Stats
+Base Health Regeneration: 6.5 ⇒ 7.5
+E - Sleepy Trouble Bubble
+Magic Resistance Reduction: 20/22.5/25/27.5/30% ⇒ 30% at all ranks
+- - - - - - - - -
+Bloodthirster
+Bloodthirster is just slightly over-performing as a greedy purchase for winning players. It's proven to be in pretty solid shape for an item and we're happy that players can't easily stack two shields in the same build, but it just needs a small tuning pass. The rule update here aligns it with Absolute Focus, which is nice for consistency's sake so that these effects both leave and return at the same time.
+Engorge Health Requirement for Bonus AD: above 50% health ⇒ above 70% health
+- - - - - - - - -
+Duskblade of Draktharr
+Our goals for Duskblade this patch are to make the passive the same as other untargetable effects (minus the tower blocking) which should help make Duskblade untargetability interactions a bit more intuitive for players. We’re also removing the damage immunity from the passive as we believe that if you have a kill confirmed with something like Ignite, you should still get that kill and it should not be denied by Duskblade.
+removedMore Like the Rest: Nightstalker passive has been changed to functionally match other untargetable effects. Duskblade will still not block towers.
+removedSlippery, but not Invincible: No longer makes the owner immune to damage while untargetable.
+newBut still Slippery: Now destroys incoming non-tower projectiles when triggered.
+- - - - - - - - -
+Evenshroud
+Evenshroud is a consistently over-performing support tank mythic and is so strong, we've seen it getting poached cross-class. Its price, stat line, and build path all match Locket, so by process of elimination that means its unique passive must be the overpowered part! Eureka!
+Coruscation Damage Amplification: 10% ⇒ 7%
+- - - - - - - - -
+Goredrinker
+Goredrinker is meant to be a heavy fighter item where durability is its primary output. This should be the go-to item for fighters whose goal is to live as long as possible, so raising its slot efficiency and durability should help do that.
+Item Recipe: Ironspike Whip + Caulfield’s Warhammer + Kindlegem ⇒ Ironspike Whip + Phage + Kindlegem (Note: Total cost unchanged)
+Health: 300 ⇒ 400
+- - - - - - - - -
+Immortal Shieldbow
+Shieldbow is a little weak in its current state, but we're really happy with cutting it off from being a good first item purchase as it quickly makes champion interaction in lane less meaningful. But if players want to buy it second, it means delaying a high-value option like Infinity Edge, Galeforce, or Quickblades, which is a meaningful opportunity cost. We're comfortable with players making that trade-off decision, so we're amping up the early shield value to make it more enticing a bit sooner. Overall, we’re happy if players more equally consider Shieldbow or Bloodthirster as their crit-lifesteal item of choice.
+Lifeline Shield: 215-500 (levels 11-18) ⇒ 290-500 (levels 11-18)
+- - - - - - - - -
+Spear of Shojin
+In this patch, our goal is to make Spear of Shojin a solid middleweight fighter item. Its stat efficiency is receiving a significant buff to open it up to more users, and its unique passive is being heavily buffed before four items. We expect some champions like Hecarim and Jax to be very pleased with this buff and some new champions to take notice. We’ll follow up as needed on any individual balance outliers, but we believe a world where more fighters buy items with 500 HP on them makes for a healthier game overall.
+Item Recipe: Caulfield’s Warhammer + B.F. Sword + Kindlegem ⇒ Caulfield’s Warhammer + Pickaxe + Kindlegem
+Combine Cost: 100 ⇒ 525 (Note: total item cost is unchanged.)
+Attack Damage: 65 ⇒ 60
+Health: 350 ⇒ 500
+Dragonforce: 8 (+8% bonus AD) Haste for Melee Champions / 6 (+6% bonus AD) Haste for Ranged Champions ⇒ 16 (+4% bonus AD) Haste for Melee Champions / 12 (+3% bonus AD) Haste for Ranged Champions (Note: this is a buff before 200 bonus AD.)
+- - - - - - - - -
+Statikk Shiv
+In 13.10, the goal behind Statikk Shiv’s AP ratio was to create another hybrid item that would suit champions who wanted to auto-attack and also had AP scaling, somewhat similar to Nashor’s Tooth and the Rageblade of old. For many hybrid-building champions (Kai’Sa, Varus), this ended up being pretty reasonable. However, LeBlanc has made it her go-to item, even after nerfing its interaction with Night Harvester, so Shiv’s synergy with AP builds has to be reduced a bit further.
+Bonus Damage Against Champions: 100-180 (based on level) (+30% AP) ⇒ 100-180 (based on level) (+15% AP)
+- - - - - - - - -
+Stridebreaker
+This item is actually quite strong. but doesn't have a lot of core users that are able to use it effectively in its current state. The light buff here gives it more damage but less durability than Goredrinker, though solidly more durability than Trinity Force as an attack speed option.
+Health: 300 ⇒ 375
+- - - - - - - - -
+Future's Market
+Future’s Market is simply an overperforming rune and is being consistently picked by junglers, more so than any other role. This change should help balance rune options and very slightly lower jungle power.
+Debt Limit: starts at 145 gold + 5 per minute ⇒ starts at 100 gold + 8 per minute (Note: this is a buff starting at 18 minutes.)
+- - - - - - - - -
+CATCHUP EXPERIENCE
+
+Catchup experience in the jungle has mostly been working as intended but there have been a few unusual cases that have cropped up where it doesn't feel like the enemy is truly behind enough to be getting catchup experience. This is usually due to the way the average level calculation was rounding, so in some cases a player was just barely over two levels down from the average which ended up rounding to three levels below and thus triggering catchup experience. We're shifting the way it rounds to not always round up and thus resolve a lot of these rare cases so it doesn't feel like the enemy jungler is unfairly clawing their way back into the game.
+- - - - - - - - -
+DRAGON PATIENCE
+
+We're adding the patience bar to all of the dragons this patch! Similar to our other objectives, dragons will now have a visual indicator that shows how far they can be leashed; if the dragon is moved outside of this range then its patience bar will begin depleting. We're hoping that this change will clarify the dragons’ range for those less familiar with it to support a more consistent dragon-taking experience.
+
+The only way to get a functioning patience bar and leash indicator was to rebuild the Dragon AI from the ground up, so you’ll see some small differences. This means no more silly behaviors like the Dragon doing jumping squats mid-fight and small differences in leash ranges.
+newImpatient Dragons: Added a patience bar and leashing range indicator to all dragons.
+- - - - - - - - -
+BUFFS
+Anivia: 100% Damage Taken ⇒ 95% Damage Take
+Gnar: 0 Total Attack Speed Increase ⇒ 2.5% Total Attack Speed Increase
+Kennen: 100% Damage Dealt ⇒ 105% Damage Dealt
+Trundle: 95% Healing Done ⇒ 100% Healing Done
+Zilean: 0 Ability Haste ⇒ 10 Ability Haste
+NERFS
+Brand: 0 Ability Haste ⇒ -10 Ability Haste
+Kayle: 103% Damage Taken ⇒ 105% Damage Taken
+Maokai: 105% Damage Taken ⇒ 110% Damage Taken
+Nasus: 105% Damage Taken ⇒ 110% Damage Taken
+Samira: 100% Damage Taken ⇒ 105% Damage Taken
+Tryndamere: 115% Damage Dealt ⇒ 110% Damage Dealt
+Vladimir: 100% Healing Done ⇒ 90% Healing Done
+BUGFIXES
+Fixed a bug that caused Viego to be able to shop on Howling Abyss after using his Passive - Sovereign’s Domination to possess an opponent.
+- - - - - - - - -
+The Blue Essence Emporium is back! You'll be able to spend your Blue Essence on chromas, accessories, and more starting September 6, 20:00 UTC. The Emporium will remain open until September 20 , 20:00 UTC, so make sure to drop by!
+- - - - - - - - -
+In this patch we'll be releasing champion illustration icons for 164 champions! These will be available for direct purchase in the shop for 250 RP each.
+- - - - - - - - -
+QoL CHANGES
+The in-lobby chat window has been updated to include placeholder texts and new fonts and colors for better visibility.
+Pressing ‘Enter’ while in a lobby will now activate typing in chat.
+Added visual clarifications between Role and Role Description.
+Drastically improved performance when viewing Ranked Ladders in the League Client. The page should load much faster and, once loaded, will scroll through the list significantly smoother.
+BUGFIXES
+Fixed a bug that caused Frozen Heart’s snowflake VFX to appear above non-champions.
+Fixed a bug that caused Heal to not grant movespeed to the ally healed.
+Fixed a bug that caused Sett’s R - The Show Stopper to suppress targets for an extended duration if the knockup from the ability was blocked by a Spellshield.
+Fixed a bug that was cursing the Target Dummy’s name to display as “Unknown” in the practice tool.
+Fixed a bug that caused Draven’s R - Whirling Death to play the incorrect SFX when it was sent out and when it returned.
+Fixed a bug that was causing Taliyah’s R - Weaver’s Wall animation speed to play slower than intended.
+Fixed a bug that allowed Camille to determine if Neeko was disguised due to her Passive - Adaptive Defenses.
+Fixed a bug that would allow Aery to provide vision as it was heading back to base.
+Fixed a bug that caused Sylas’ E - Abduct to not CC opponents for the proper duration.
+Fixed a bug that caused Twisted Fate’s R - Curtain Call eyeball VFX to last longer than intended.
+Fixed a bug that was causing wards to not show up when pushed aside by Epic Monsters.
+Fixed a bug that caused champions to be revealed by Oracle Lens if they dashed onto the exact space the ward was located.
+Fixed a bug that caused Font of Life to not trigger Lucian’s Passive - Lightslinger.
+Fixed a bug that caused Lissandra’s Q - Ice Shard to be canceled if she was CC’d while she was casting it.
+SKIN BUGFIXES
+Fixed a bug where Fright Night Nautilus’ model moved unintentionally when Q - Dredge Line was cast.
+Fixed a bug where Shan Hai Scrolls Jhin did not have a pulsating overlay.
+Fixed a bug where Dark Cosmic Jhin’s R - Curtain Call and Passive - Whisper VO lines for casting the abilities did not play.
+Fixed a bug where Project Zed’s lower body was frozen without motion when he performed attacks that triggered his Passive - Contempt for the Weak.
+Fixed a bug where smoke during Dragonslayer Kayle’s Recall had a rectangular shape.
+Fixed a bug where the VFX overlay on PsyOps Sona would glitch unintentionally when Passive - Power Cord was ready.
+Fixed a bug where Cafe Cuties’ Soraka Q - Starcall VFX indicating bonus Movement Speed was missing after she hit an enemy with her Q - Starcall.
+Fixed a bug where Prestige Immortal Journey Sona HUD icon was using the Classic Immortal Journey Sona splash art.
+Fixed a bug where Immortal Journey Kayle’s Scoreboard and Minimap icon did not reflect level 11 Classic Kayle Splash Art changes.
+Fixed a bug that was causing Mecha Kingdom Jax’s E - Counter Strike VFX to remain after dodging multiple hits in a single E cast.
+Fixed a bug that caused Caitlyn’s Pulsefire skin (and chromas) to not display the headshot ready indicator VFX.
+ARENA BUGFIXES
+Fixed a bug that caused the Evocation augment to not be affected by summoner spell haste.
+Fixed a bug that caused Navori Quickblades’ Mythic Passive to not grant additional Attack Damage to Legendary Items
+- - - - - - - - -
+The following skins will be released in this patch:
+Cosmic Matriarch Bel'Veth
+Cosmic Paladin Nautilus
+Cosmic Paladin Sion
+Cosmic Paladins Nunu & Willump
+Dark Cosmic Erasure Jhin
+- - - - - - - - -
+The following chromas will be released this patch:
+Cosmic Matriarch Bel'Veth
+Cosmic Paladin Nautilus
+Cosmic Paladin Sion
+Cosmic Paladins Nunu & Willump
+- - - - - - - - -

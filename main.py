@@ -21,9 +21,13 @@ def scrap():
 
 
 
-    for target in target_name:
-        print(target.text)
-        print("--------------------")
+    with open("C:/Users/blawa/Downloads/lolPatch.txt", "w",encoding='utf-8') as f:
+        for name in target_name:
+            f.write(name.text)
+            f.write("\n" * 2)
+            f.write("- - - - - - - - -")
+            f.write("\n" * 2)
+
 
 
 
