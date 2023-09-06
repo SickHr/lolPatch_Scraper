@@ -9,7 +9,7 @@ driver = webdriver.Chrome()
 
 def scrap():
     driver.get("https://www.leagueoflegends.com/en-us/news/tags/patch-notes/")
-    time.sleep(2)
+    time.sleep(1)
 
     # Hol den neusten Patch
     patch = driver.find_element(By.XPATH, "//*[@id='gatsby-focus-wrapper']/div/div[2]/div/div[1]/div/ol/li[1]/a/article/div[2]/div/h2")
