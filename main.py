@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 import time
 
 
-driver = webdriver.Chrome()
+driver = webdriver.Chrome() 
 
 
 def scrap():
@@ -17,7 +17,6 @@ def scrap():
     time.sleep(0.2)
 
     target_name = driver.find_elements(By.XPATH, "//*[@id='patch-notes-container']/div")
-    target_name.pop(0)
 
 
 
