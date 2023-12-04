@@ -8,7 +8,7 @@ import time
 driver = webdriver.Chrome()
 
 
-def scrap(): 
+def scrap():
     driver.get("https://www.leagueoflegends.com/en-us/news/tags/patch-notes/")
     time.sleep(1)
 
