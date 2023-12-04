@@ -8,7 +8,7 @@ import time
 driver = webdriver.Chrome()
 
 
-def scrap():
+def scrap(): 
     driver.get("https://www.leagueoflegends.com/en-us/news/tags/patch-notes/")
     time.sleep(1)
 
@@ -22,6 +22,7 @@ def scrap():
 
     desktop_path = os.path.join(os.path.expanduser('~'), 'Desktop')
     file_path = os.path.join(desktop_path, 'patchnotes.txt')
+
 
     with open(file_path, "w", encoding='utf-8') as f:
         for name in target_name:
